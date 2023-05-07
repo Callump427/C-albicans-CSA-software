@@ -1,6 +1,6 @@
 # C-albicans-CSA-software
 Please see Preprint: Dynamic calcium-mediated stress response and recovery signatures in the fungal pathogen, Candida albicans
-in BioRxiv for more information on the software is used to analyse data: https://doi.org/10.1101/2023.04.20.537637
+in BioRxiv for more information on how the software is used to analyse data: https://doi.org/10.1101/2023.04.20.537637
 
 Calcium Spike Analysis (CSA) MATLAB software developed by Prof Mark Fricker (University of Oxford) for GCaMP6 signal analysis in 
 C. albicans.
